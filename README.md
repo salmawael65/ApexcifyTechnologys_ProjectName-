@@ -2,7 +2,7 @@
 This repository contains my internship tasks at ApexcifyTechnologys, showcasing projects built using Python.
 ------------------------------------------------------------------------------------------------------------- 
 
-✅ Task 3: Smart File Organizer(Task Automation with Python)
+✅ Task 3: Smart File Organizer (Task Automation with Python)
 
 Goal:
 
