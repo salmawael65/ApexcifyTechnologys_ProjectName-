@@ -1,2 +1,2 @@
 # ApexcifyTechnologys_ProjectName-
-A Python script to automatically organize files into categorized folders (Images, Docs, Excel, Videos).
+This repository contains my internship tasks at ApexcifyTechnologys, showcasing projects built using Python.
